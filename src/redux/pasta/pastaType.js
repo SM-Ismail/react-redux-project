@@ -1,0 +1,1 @@
+export const BUY_PASTA = "BUY_PASTA";
